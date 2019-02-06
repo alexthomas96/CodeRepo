@@ -159,6 +159,8 @@ End Try
 
 '___________________________________ Custom Forms with VB .NET _____________________________________
 
+'Requires the System.Windows.Forms namespace to be imported in UiPath
+
 Dim frm As Form = New Form
  
 	'Form Height
